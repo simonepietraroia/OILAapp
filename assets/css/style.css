@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "summer";
+    src: url('../fonts/OILA-font.ttf') format('truetype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: "summer", sans-serif;
+}
+nav ul {
+    float:left
+}
