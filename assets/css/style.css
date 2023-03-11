@@ -94,27 +94,38 @@ a:hover {
     color: #f8f7f3;
 }
 
+#description h2,h1 {
+    font-size: 280%;
+}
+
+#description p {
+    font-size: 210%;
+    letter-spacing: 2px;
+}
+
 #left-about {
     padding-top: 30px;
+    margin: 125px auto;
     width: 33%;
     float: left;
 }
 
 #right-about {
     padding-top: 30px;
+    margin: 125px auto;
     width: 33%;
     float: right;
 }
 
 #center-about {
     width: 33%;
-    margin: 0 auto;
+    margin: 150px auto;
 }
 
 hr {
     border-top: 1px solid #f8f7f3;
     width: 100%;
-    margin: 5px 0;
+    margin: 17px 0;
 }
 
 .left-about-heading {
