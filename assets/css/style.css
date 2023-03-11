@@ -13,8 +13,13 @@ body {
     font-family: "summer", sans-serif;
 }
 
-#background-yellow {
-    background-color: ;
+.background-yellow {
+    background-color:#f9c448;
+    position: absolute;
+    width: 100%;
+    height: 625px;
+    top: 75px;
+    z-index: -1;
 }
 
 /* Navivigation bar */
@@ -27,10 +32,11 @@ body {
 }
 
 #menu {
-    background-color: rgb(249, 196, 72);
+    background-color: #f9c448;
     position: fixed;
     width: 100%;
     height: 75px;
+    box-shadow:;
 }
 #menu li {
     float: right;
@@ -55,4 +61,10 @@ a:hover {
 
 /* First section (landing page) */
 
-#background
+#hero-image {
+    height: 480px; 
+    width: 550px; 
+    display: block;
+    margin: 5px auto 20px auto;
+    width: 50%;
+}
