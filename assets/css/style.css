@@ -90,6 +90,10 @@ a:hover {
     height: 600px;
 }
 
+#description h2,h1,p {
+    color: #f8f7f3;
+}
+
 #left-about {
     padding-top: 30px;
     width: 33%;
@@ -105,4 +109,31 @@ a:hover {
 #center-about {
     width: 33%;
     margin: 0 auto;
+}
+
+hr {
+    border-top: 1px solid #f8f7f3;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#description-heading {
+    text-align: center;
+    font-size: 280%;
 }
