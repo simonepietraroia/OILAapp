@@ -155,14 +155,16 @@ hr {
 #description-heading {
     text-align: center;
     font-size: 280%;
+    position: relative;
+    top: 30px;
 }
 
 /* 3rd section containing promo video */
 
 #promo-vid {
-    position: absolute;
-    left: 22%;
-    top: 205%;
+    position: relative;
+    right: 140px;
+    top: 60px;
 }
 
 /* 4th section about testimonials */
@@ -171,4 +173,15 @@ hr {
     text-align: center;
     font-size: 280%;
     color: #f8f7f3;
+    position: relative;
+    top: 30px;
+}
+
+#testimonial img {
+    display: inline;
+    margin: 85px;
+}
+
+#test-1 {
+    height: 328px;
 }
