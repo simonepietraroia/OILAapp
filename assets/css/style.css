@@ -11,6 +11,7 @@
 
 body {
     font-family: "summer", sans-serif;
+    overflow: auto;
 }
 
 .background-yellow {
@@ -152,11 +153,12 @@ hr {
     margin-bottom: 50px;
 }
 
-#description-heading {
+.section-title {
     text-align: center;
     font-size: 280%;
     position: relative;
     top: 30px;
+    color: #f8f7f3;
 }
 
 /* 3rd section containing promo video */
@@ -169,14 +171,6 @@ hr {
 
 /* 4th section about testimonials */
 
-#test-heading {
-    text-align: center;
-    font-size: 280%;
-    color: #f8f7f3;
-    position: relative;
-    top: 30px;
-}
-
 #testimonial img {
     display: inline;
     margin: 85px;
@@ -185,3 +179,57 @@ hr {
 #test-1 {
     height: 328px;
 }
+
+/* 5th section about pricing and download */
+
+.box-background {
+    background-color: #f8f7f3;
+    width: 300px;
+    height: 400px;
+    border-radius: 5px;
+    display: inline-block;
+    border: 2px solid black;
+    box-shadow: 1px 1px 4px 1px;
+}
+
+#left-box {
+    position: relative;
+    left: 6%;
+    top: 0;
+}
+
+#right-box {
+    position: relative;
+    left: 45%;
+    top: 40px;
+
+}
+
+.box-background > * {
+    color: #420E59E8;
+    margin: 8px;
+    padding: 8px;
+    list-style: none;
+    line-height: 55px;
+}
+
+.box-background h3 {
+    font-size: 190%;
+}
+
+h3 i {
+    font-size: smaller;
+    vertical-align: top;
+}
+
+.price {
+    font-size: 260%;
+    font-weight: 800;
+}
+
+.box-background ul {
+    font-size: 160%;
+    letter-spacing: 30px;
+}
+
+
