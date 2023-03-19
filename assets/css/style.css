@@ -279,3 +279,24 @@ h3 i {
     margin-left: 30px;
 }
 
+/* about us section */
+
+#circle-container {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius:50%;
+    position: relative;
+    top: 30%;
+    margin-left: 100px;
+}
+
+#circle-img {
+    background: url(/assets/images/LanaPhotoPng-150x150.png) no-repeat center center;
+    background-size: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
