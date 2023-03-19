@@ -214,11 +214,11 @@ hr {
 }
 
 .box-background h3 {
-    font-size: 190%;
+    font-size: 200%;
 }
 
 h3 i {
-    font-size: smaller;
+    font-size: 60%;
     vertical-align: top;
 }
 
@@ -229,7 +229,10 @@ h3 i {
 
 .box-background ul {
     font-size: 160%;
-    letter-spacing: 30px;
+}
+
+.box-background > ul i {
+    font-size: 70%;
 }
 
 
