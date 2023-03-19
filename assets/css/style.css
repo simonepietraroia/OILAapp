@@ -186,22 +186,20 @@ hr {
     background-color: #f8f7f3;
     width: 300px;
     height: 400px;
-    border-radius: 5px;
-    display: inline-block;
-    border: 2px solid black;
-    box-shadow: 1px 1px 4px 1px;
+    border-radius: 8px;
+    border: 0.5 black;
 }
 
 #left-box {
     position: relative;
     left: 6%;
-    top: 0;
+    top: 20px;
 }
 
 #right-box {
-    position: relative;
-    left: 45%;
-    top: 40px;
+    position: absolute;
+    left: 70%;
+    top: 418%;
 
 }
 
@@ -235,4 +233,49 @@ h3 i {
     font-size: 70%;
 }
 
+#free-trial {
+    font-size: 230%;
+    text-align: center;
+    color: #f8f7f3;
+    position: relative;
+    top: 50px;
+}
+
+#cancel-sub {
+    font-size: 230%;
+    text-align: center;
+    color: #f8f7f3;
+    position: relative;
+    top: 50px;
+}
+
+#option {
+    position: absolute;
+    left: 49%;
+    top: 447%;
+    font-size: 290%;
+    opacity: 75%;
+    color: black;
+}
+
+/* section containing download buttons */
+
+#background-blue {
+    background: #8DAAE4;
+    width: 100%;
+    height: 130px;
+}
+
+#background-blue a img {
+    position: relative;
+    left: 42%;
+    bottom: 15px;
+}
+
+#down-statment {
+    position: relative;
+    top: 40px;
+    font-size: 240%;
+    margin-left: 30px;
+}
 
