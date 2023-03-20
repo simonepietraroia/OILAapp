@@ -348,6 +348,9 @@ h3 i {
 
 .social-networks {
     text-align: center;
+    position: relative;
+    right: 3px;
+    font-size: 120%;
 }
 
 .social-networks > li {
@@ -361,17 +364,17 @@ h3 i {
 }
 
 #facebook {
-
+    color: #4867aa;
 }
 
 #instagram {
-
+    color: #d00e9a;
 }
 
 #youtube {
-
+    color: red;
 }
 
 #tiktok {
-    
+    color: black;
 }
