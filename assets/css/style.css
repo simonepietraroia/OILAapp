@@ -284,7 +284,7 @@ h3 i {
 #about-us-section {
     background-color: #f8f7f3;
     width: 100%;
-    height: 1000px;
+    height: 1200px;
     z-index: -1;    
 }
 
@@ -346,3 +346,32 @@ h3 i {
     margin-top: 20px;
 }
 
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+}
+
+#facebook {
+
+}
+
+#instagram {
+
+}
+
+#youtube {
+
+}
+
+#tiktok {
+    
+}
