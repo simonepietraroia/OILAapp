@@ -435,3 +435,18 @@ h3 i {
     color: #420E59E8;
 }
 
+/* privacy policy page */
+
+#privacy-header {
+    text-align: center;
+    font-size: 350%;
+    color: black;
+    margin-right: 70px;
+}
+
+#privacy-background p {
+    color: black;
+    font-size: 250%;
+    margin: 0 50px 80px 50px;
+
+}
