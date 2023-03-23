@@ -79,7 +79,7 @@ a:hover {
     height: 480px; 
     width: 525px; 
     display: block;
-    position: absolute;
+    position: relative;
     top: 75px;
     left: 310px;
     width: 50%;
@@ -87,9 +87,9 @@ a:hover {
 
 #app-description {
     font-size: 250%;
-    position: absolute;
-    top: 90%;
-    left: 450px;
+    position: relative;
+    top: 13%;
+    margin-left: 36%;
 }
 
 /* 2nd section about reasons to download */
@@ -129,6 +129,7 @@ a:hover {
     width: 33%;
     margin: 165px auto;
     padding: 0 5px 0 5px;
+    position: relative;
 }
 
 hr {
@@ -481,21 +482,39 @@ h3 i {
     margin-right: 70px;
 }
 
-/* Responsive page for screens 1200px and under */
+/* responsive page for screens 1200px and under */
 
 @media screen and (max-width:1200px) {
+    #hero-image {
+        left: 230px;
+        top: 85px;
+        height: 380px;
+    }
 
+    #app-description {
+        top: 130px;
+        right: 5%;
+    }
+
+    #center-about {
+        bottom: 20%;
+        right: 80px;
+    }
+    
+    #left-about {
+        float: none;
+        margin-left: 10px;
+    }
 
 }
 
-/* Responsive page for screens 950px and under */
+/* responsive page for screens 950px and under */
 
 @media screen and (max-width: 950px) {
-
 }
 
 /* responsive page for screens 800px and under */
 
 @media screen and (max-width: 800px) {
-    
+
 }
