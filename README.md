@@ -1,7 +1,12 @@
 # OILA.app
-
+This is a childrens learning app ages 5-9. The company/ startup is based in Astana, Kazakhstan and is avaliable in Russian, Ukrainian, and Kazakh. OILA aims to mix play and learning together in one app that can be used independtly by children. This website hopes to present clear and concise information about the functionality and benefits of the OILA application to spread awarness to the target audince.
 ## Table of Contents
-
+- [User Experience (UX)](#user-experience--ux-)
+- [Technologies used](#technologies-used)
+- [Features](#features)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 ## User Experience (UX)
 ### User stories
 
