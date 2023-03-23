@@ -140,7 +140,7 @@ hr {
 .left-about-heading {
     width: 60%;
     float: right;
-    line-height: 20px;
+    line-height: 28px;
     clear: both;
     margin-bottom: 50px;
 }
@@ -148,7 +148,7 @@ hr {
 .right-about-heading {
     width: 60%;
     float: left;
-    line-height: 20px;
+    line-height: 28px;
     clear: both;
     margin-bottom: 50px;
 }
