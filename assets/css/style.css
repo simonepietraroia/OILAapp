@@ -458,5 +458,22 @@ h3 i {
 
 /* eula terms page */
 
+#eula-term-background {
+    background-color: #f8f7f3;
+}
 
+#eula-term-background p {
+    color: black;
+    font-size: 250%;
+    margin: 0 80px 80px 80px;
+    position: relative;
+    top: 100px;
+}
+
+#eula-term-header {
+    text-align: center;
+    font-size: 350%;
+    color: black;
+    margin-right: 70px;
+}
 
