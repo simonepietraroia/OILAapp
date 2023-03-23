@@ -481,3 +481,21 @@ h3 i {
     margin-right: 70px;
 }
 
+/* Responsive page for screens 1200px and under */
+
+@media screen and (max-width:1200px) {
+
+
+}
+
+/* Responsive page for screens 950px and under */
+
+@media screen and (max-width: 950px) {
+
+}
+
+/* responsive page for screens 800px and under */
+
+@media screen and (max-width: 800px) {
+    
+}
