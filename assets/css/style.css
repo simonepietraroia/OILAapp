@@ -444,9 +444,15 @@ h3 i {
     margin-right: 70px;
 }
 
+#privacy-background {
+    background-color: #f8f7f3;
+}
+
 #privacy-background p {
     color: black;
     font-size: 250%;
-    margin: 0 50px 80px 50px;
-
+    margin: 0 80px 80px 80px;
+    position: relative;
+    top: 100px;
 }
+
