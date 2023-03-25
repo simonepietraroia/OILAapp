@@ -81,7 +81,7 @@ a:hover {
     display: block;
     position: relative;
     top: 75px;
-    left: 310px;
+    margin-left: 310px;
     width: 50%;
 }
 
@@ -190,14 +190,14 @@ hr {
 
 #left-box {
     position: relative;
-    left: 6%;
+    margin-left: 75px;
     top: 20px;
 }
 
 #right-box {
     position: relative;
-    left: 70%;
     bottom: 390px;
+    margin-left: 70%;
 }
 
 .box-background > * {
@@ -313,7 +313,7 @@ h3 i {
 
 #about-us-section iframe {
     position: relative;
-    left: 28%;
+    margin-left: 28%;
     margin-top: 70px;
 }
 
@@ -362,7 +362,7 @@ h3 i {
 .social-networks {
     text-align: center;
     position: relative;
-    right: 3px;
+    margin-right: 3px;
     font-size: 120%;
 }
 
@@ -492,14 +492,14 @@ h3 i {
 
 @media screen and (max-width:1200px) {
     #hero-image {
-        left: 230px;
+        margin-left: 265px;
         top: 85px;
         height: 365px;
     }
 
     #app-description {
         top: 130px;
-        right: 5%;
+        margin-left: 33.5%;
     }
 
     #left-about {
@@ -507,11 +507,11 @@ h3 i {
     }
 
     #right-about {
-        bottom: 78%;
+        bottom: 67%;
     }
 
     #center-about {
-        bottom: 125%;
+        bottom: 110%;
         margin-left: 32%;
     }
 
@@ -520,31 +520,28 @@ h3 i {
     }
 
     #promo-vid {
-        bottom: 55%;
-        margin-left: 7%;
+        bottom: 40%;
+        margin-left: 15%;
     }
 
     #testimonial img {
-        margin: 11px;
+        margin: 39px;
         margin-top: 8%;
     }
 
     #left-box {
-        left: 2%;
-    }
-
-    #right-box {
-        left: 67%;
+        margin-left: 40px;
     }
 
     .box-background {
         width: 250px;
+        height: 395px;
     }
 
     #down-statment {
         width: 40%;
         font-size: 200%;
-        top: 30px;
+        top: 45px;
     }
 
     #background-blue > a img {
@@ -553,11 +550,11 @@ h3 i {
     }
 
     #apple-button {
-        bottom: 35px;
+        bottom: 0px;
     }
 
     #google-button {
-        bottom: 37px;
+        bottom: 0px;
     }
 
     #circle-container {
@@ -568,7 +565,7 @@ h3 i {
 
     #about-title {
         font-size: 200%;
-        margin-left: 115px;
+        margin-left: 63px;
         top: 18px;
     }
 
@@ -578,11 +575,11 @@ h3 i {
     }
 
     #astana-hub {
-        margin-left: 25%;
+        margin-left: 30%;
     }
 
     #about-us-section iframe {
-        left: 17%;
+        margin-left: 24%;
     }
 
     #hub-logo {
@@ -592,54 +589,50 @@ h3 i {
     #info {
         width: 150px;
     }
+
+    #terms {
+        bottom: 150px;
+    }
+
+    #privacy {
+        bottom: 205px;
+    }
 }
 
 /* responsive page for screens 950px and under */
 
 @media screen and (max-width: 950px) {
-    #hero-image {
-        height: 50%;
-        left: 220px;
+
+    #description h2,h1 {
+        font-size: 200%;
+    }
+    
+    #description p {
+        font-size: 160%;
     }
 
     #promo-vid {
-        margin-left: 5%;
+        margin-left: 11%;
     }
 
     #testimonial img {
-        margin: 10px 3px 0 3px;
+        margin: 40px 22px 0 21px;
     }
 
     #left-box {
-        left: 1%;
-    }
-
-    #right-box {
-        left: 66%;
+        margin-left: 1.5%;
     }
 
     #about-title {
-        right: 127px;
+        margin-left: 92px;
     }
 
-    #about-us-desc {
-        left: 37%;
-    }
-
-    #google-button {
-        margin-left: 8%;
+    #about-us-section iframe {
+        margin-left: 23%;
     }
 
     .social-networks {
-        right: 0;
-    }
-
-    #terms {
-        bottom: 150px;
-    }
-    
-    #privacy {
-        bottom: 203px;
+        margin-left: 80px;
     }
 
 }
@@ -648,4 +641,5 @@ h3 i {
 
 @media screen and (max-width: 800px) {
 
+    
 }
