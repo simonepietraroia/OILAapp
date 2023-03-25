@@ -597,6 +597,51 @@ h3 i {
 /* responsive page for screens 950px and under */
 
 @media screen and (max-width: 950px) {
+    #hero-image {
+        height: 50%;
+        left: 220px;
+    }
+
+    #promo-vid {
+        margin-left: 5%;
+    }
+
+    #testimonial img {
+        margin: 10px 3px 0 3px;
+    }
+
+    #left-box {
+        left: 1%;
+    }
+
+    #right-box {
+        left: 66%;
+    }
+
+    #about-title {
+        right: 127px;
+    }
+
+    #about-us-desc {
+        left: 37%;
+    }
+
+    #google-button {
+        margin-left: 8%;
+    }
+
+    .social-networks {
+        right: 0;
+    }
+
+    #terms {
+        bottom: 150px;
+    }
+    
+    #privacy {
+        bottom: 203px;
+    }
+
 }
 
 /* responsive page for screens 800px and under */
