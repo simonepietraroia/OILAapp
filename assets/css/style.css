@@ -252,7 +252,7 @@ h3 i {
     margin-left: 48%;
     font-size: 290%;
     opacity: 75%;
-    color: black;
+    color: #f8f7f3;
 }
 
 /* section containing download buttons */
@@ -641,5 +641,64 @@ h3 i {
 
 @media screen and (max-width: 800px) {
 
+    #hero-image {
+        margin-left: 195px;
+        width: 450px;
+    }
     
+    #app-description {
+        margin-left: 31%;
+        font-size: 240%;
+    }
+
+    #promo-vid iframe {
+        margin-left: 9%;
+        width: 70%;
+        height: 350px
+    }
+
+    #testimonial img {
+        margin: 105px 29px 0 29px;
+        width: 200px;
+        height: 300px;
+    }
+
+    #right-box {
+        margin-left: 66%;
+    }
+
+    #free-trial {
+        font-size: 200%;
+    }
+
+    #cancel-sub {
+        font-size: 200%;
+    }
+
+    #down-statment {
+        font-size: 180%;
+    }
+
+    #about-title {
+        margin-left: 180px;
+    }
+
+    #about-us-desc {
+        font-size: 150%;
+        margin-left: 30px;
+    }
+
+    #astana-hub {
+        margin-left: 27%;
+    }
+
+    #about-us-section iframe {
+        margin-left: 24%;
+        width: 60%;
+        height: 30%;
+    }
+    
+    .social-networks {
+        margin-left: 70px;
+    }
 }
