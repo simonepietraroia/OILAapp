@@ -8,6 +8,7 @@ This is a childrens learning app ages 5-9. The company/ startup is based in Asta
 - [Deployment](#deployment)
 - [Credits](#credits)
 ## User Experience (UX)
+
 ### User stories
 
 #### First Time Visitor Goals
