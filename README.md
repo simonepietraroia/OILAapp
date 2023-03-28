@@ -26,6 +26,9 @@ For the design I was given a shade of yellow, purple, white, and light blue. The
 The hero image was selected to communicate directly what the service provided and the target audince of parents and children 9-5 years old.
 2. Colour Scheme
 The colors were used to seperate sections of the website and to match the application's color template
+
+<img src="assets/images/Color-Palet.png" alt="picture of 3 different colors with hex id" width="400px">
+
 3. Typography
 The custom font was taken from the application itself which is meant to represent the applications purpose which is to help kids learn through play.
 ## Technologies used 
@@ -42,17 +45,29 @@ The custom font was taken from the application itself which is meant to represen
 ## Features
 ### Navigation Bar
 The navigation bar stays at the top of the screen while scrolling and when the words are clicked it will take the user to the certain section.
+
+<img src="assets/images/Nav.JPG" alt="Picture of navigation bar on website" width="400px">
+
 ### Hero image and text
 The hero image is meant to indicate the user that it is an application meant for children to learn and play. 
 
 The children in the image on the tablet shows that it is an application for kids that is fun. Directly under the image it indicates the age range and that is an educational app.
+
+<img src="assets/images/Hero-image.png" alt="picture of landing page with hero image" width="400px">
+
 ### What we do
-The section after the hero image lists several features and benefits of the application which highlights all the topics listed, languages avaliable, and fun independent learning for children. 
+
+The section after the hero image lists several features and benefits of the application which highlights all the topics listed, languages avaliable, and fun independent learning for children.
+
+<img src="assets/images/join-us.png" alt="picture of 'why join us?' diagram" width="400px">
 
 ### Footer
 In the footer the contact information of the company is listed as well as links to the privacy policy and the EULA Terms. Users can contact the organization for any unanswered questions.
+
+<img src="assets/images/footer.JPG" alt="picture of footer 'contact us' section on webpage" width="400px">
+
 ## Testing 
-## testing of the user story
+## Testing of the user story
 ### User stories
 |Goal| Execution|
 |--------------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -77,8 +92,11 @@ The website was tested in different browsers.
 |Mozilla Firefox versie 102.0|no problems|
 |Microsoft Edge Versie 103.0.1264.44|no problems|
 |Google Chrome Versie 103.0.5060.114 | no problems|
+
 ### Validator Testing
 1. HTML
+
+<img src="assets/images/HTML-validator.png" alt="screenshot of W3 HTML validator with no error results" width="600px">
 
 2. CSS
 
@@ -95,7 +113,7 @@ Afterwards you go to the subsection pages.
 Next go to the source section and select Branch:main. 
 Press save and then you receive a link.  
 
-Live link: https://github.com/simonepietraroia/OILA.app.git
+Live link: https://simonepietraroia.github.io/OILA.app/
 ## Credits
 
 ### Images
