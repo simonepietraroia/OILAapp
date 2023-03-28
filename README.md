@@ -99,5 +99,16 @@ Live link: https://github.com/simonepietraroia/OILA.app.git
 ## Credits
 
 ### Images
+- All images were created and provided by the OILA organization
+- 1st testimonial headshot stock photo found at [image] (https://www.pexels.com/photo/woman-standing-near-whiteboard-1181519/)
+- 2nd testimonial headshot stock photo found at [image] (https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
+- 3rd testimonial headshot stock photo found at [image] (https://www.pexels.com/photo/man-in-red-button-up-shirt-3777943/)
 
+### Videos 
+- 1st video in 'why join us?' section was taken from OILA youtube channel [video] (https://youtu.be/u0blbobbBhU)
+
+- 2nd video in 'about us?' section was taken from OILA youtube channel [video] (https://youtu.be/pjtfJi3-0LA)
 ### code 
+- The diagram in the 'why join us?' section was taken from the Love Running project by Code Institute and modified to create a similar effect 
+- The social media icons section was taken from the Love Running project by Code Institute and altered.
+- [w3schools](https://www.w3schools.com/) was used a lot to find additional information and codes for a variety of problems encountered
