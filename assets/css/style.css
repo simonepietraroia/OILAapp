@@ -19,7 +19,6 @@ body {
     width: 100%;
     height: 625px;
     z-index: -1;
-    background-position: center;
 }
 
 .background-purple {
@@ -27,7 +26,6 @@ body {
     width: 100%;
     height: 625px;
     z-index: -1;
-    background-position: center;
 }
 
 .background-white {
@@ -35,7 +33,6 @@ body {
     width: 100%;
     height: 625px;
     z-index: -1;
-    background-position: center;
 }
 
 /* Navivigation bar */
@@ -178,13 +175,26 @@ hr {
 
 /* 4th section about testimonials */
 
-#testimonial img {
-    display: inline;
-    margin: 85px;
+.row {
+    display: flex;
 }
 
+.row img {
+    width: 300px;
+}
+
+.row > * {
+    box-sizing: border-box;
+    margin: 30px 2% 0 2%;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
 #test-1 {
-    height: 328px;
+    height: auto;
 }
 
 /* 5th section about pricing and download */
@@ -204,7 +214,6 @@ hr {
 #right-box {
     float: right;
     margin-right: 10%;
-    
 }
 
 .box-background > * {
@@ -237,19 +246,21 @@ h3 i {
     font-size: 70%;
 }
 
-#free-trial p {
+#free-trial {
     font-size: 250%;
-    text-align: center
-    
+    clear: both;
+    text-align: center;
+    position: relative;
+    top: 20px;
 }
 
 #option {
-    position: relative;
-    bottom: 99%;
-    margin-left: 48%;
+    text-align: center;
     font-size: 290%;
     opacity: 75%;
     color: #f8f7f3;
+    position: relative;
+    top: 33%;
 }
 
 /* section containing download buttons */
