@@ -1,6 +1,8 @@
 # OILA.app
 This is a childrens learning app ages 5-9. The company/ startup is based in Astana, Kazakhstan and is avaliable in Russian, Ukrainian, and Kazakh. OILA aims to mix play and learning together in one app that can be used independtly by children. This website hopes to present clear and concise information about the functionality and benefits of the OILA application to spread awarness to the target audince.
 
+<img src="assets/images/7437881.jpg" alt="picture responsivness for 4 different devices" width="400px">
+
 ## Table of Contents
 
 - [User Experience (UX)](#user-experience--ux-)
@@ -137,6 +139,7 @@ The website was tested in different browsers.
 ### Unfixed bugs
 
 - footer element over extends at the bottom when the size of the page is made smaller. The location of the bug hasn't been found.
+- Line present in the middle of the "why join us?" section. Hasn't been fixed yet.
 
 ## Deployment
 
@@ -166,6 +169,6 @@ Live link: https://simonepietraroia.github.io/OILA.app/
 
 ### Code 
 
-- The diagram in the 'why join us?' section was taken from the Love Running project by Code Institute and modified to create a similar effect 
+- The diagram in the 'why join us?' section was taken from the Love Running project by Code Institute and modified to create a similar effect.
 - The social media icons section was taken from the Love Running project by Code Institute and altered.
-- [w3schools](https://www.w3schools.com/) was used a lot to find additional information and codes for a variety of problems encountered
+- [w3schools](https://www.w3schools.com/) was used a lot to find additional information and codes for a variety of problems encountered.
