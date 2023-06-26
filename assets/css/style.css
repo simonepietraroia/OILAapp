@@ -92,9 +92,9 @@ a:hover {
 
 #app-description {
     font-size: 250%;
-    position: relative;
-    top: 13%;
     text-align: center;
+    position: relative;
+    top: 80px;
 }
 
 /* 2nd section about reasons to download */
@@ -567,7 +567,7 @@ h3 i {
 
     #app-description {
         font-size: 220%;
-        top: 17%;
+        top: 100px;
     }
 
     #left-about {
