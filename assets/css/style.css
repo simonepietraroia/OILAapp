@@ -131,7 +131,7 @@ a:hover {
 }
 
 #center-about {
-    width: 29%;
+    width: 20%;
     height: auto;
     margin: 0 auto;
     position: relative;
@@ -227,8 +227,8 @@ hr {
 
 .box-background > * {
     color: #420E59E8;
-    margin: 8px;
-    padding: 8px;
+    margin: 5px;
+    padding: 5px;
     list-style: none;
     line-height: 55px;
 }
@@ -248,7 +248,7 @@ h3 i {
 }
 
 .box-background ul {
-    font-size: 160%;
+    font-size: 150%;
 }
 
 .box-background > ul i {
