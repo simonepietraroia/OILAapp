@@ -150,7 +150,7 @@ Afterwards you go to the subsection pages.
 Next go to the source section and select Branch:main. 
 Press save and then you receive a link.  
 
-Live link: https://simonepietraroia.github.io/OILA.app/
+Live link: https://simonepietraroia.github.io/OILAapp/
 
 ## Credits
 
