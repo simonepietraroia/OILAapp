@@ -1,5 +1,5 @@
 # OILA.app
-This is a childrens learning app ages 5-9. The company/ startup is based in Astana, Kazakhstan and is avaliable in Russian, Ukrainian, and Kazakh. OILA aims to mix play and learning together in one app that can be used independtly by children. This website hopes to present clear and concise information about the functionality and benefits of the OILA application to spread awarness to the target audince.
+This is a childrens learning app ages 5-9. The startup is based in Astana, Kazakhstan and is avaliable in Russian, Ukrainian, and Kazakh. OILA aims to mix play and learning together in one app that can be used independetly by children. This website hopes to present clear and concise information about the functionality and benefits of the OILA application to spread awareness to the target audince. Children can choose to learn about the science, math, literature, and more to come in future updates. They simpley choose the topic they wish to study and answer questions about that topic and once they have correctly answered 3 questions in a row the application allows them an attempt to finish a mini-game. OILA contains colorful graphics and constant updates on levels for each topic as well as future topics designed by a member on the montessuri board in kazakhstan.
 
 <img src="assets/images/7437881.jpg" alt="picture responsivness for 4 different devices" width="400px">
 
@@ -35,6 +35,8 @@ For the design I was given a shade of yellow, purple, white, and light blue. The
 
 1. Images
 The hero image was selected to communicate directly what the service provided and the target audince of parents and children 9-5 years old.
+
+<img src="assets/images/Header_drawing_V5_web.png" alt="cartoon children sat under a tree looking at a tablet and image framed by iphone border" width="400px">
 
 2. Colour Scheme
 The colors were used to seperate sections of the website and to match the application's color template
